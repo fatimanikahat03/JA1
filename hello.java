@@ -5,7 +5,8 @@ import java.util.*;
   
 // Main class 
 public class GFG {
-    
+
+	
     // Main driver method
     public static void main(String[] args)
     {
